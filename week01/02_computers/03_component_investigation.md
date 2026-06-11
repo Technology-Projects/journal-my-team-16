@@ -15,7 +15,7 @@ components/
 | Component | Function | Key Specification |
 |----------|----------|------------------|
 | CPU |Arithmetic Logic Unit (ALU): Performs all mathematical calculations (e.g., addition, subtraction) and logical comparisons (e.g., AND, OR).Control Unit (CU): Directs the operations of the CPU. It coordinates the fetch-decode-execute cycle and manages the flow of data.Cache: Ultra-fast, small memory located directly on the CPU. It temporarily holds frequently accessed data and instructions to prevent bottlenecks.Registers: Tiny, high-speed storage areas inside the CPU that hold data currently being processed. Common types include: |A Central Processing Unit (CPU) is your computer's core brain, determining how fast it executes instructions. The most important specs to look at include cores, clock speed, cache size, architecture, and power con |
-| RAM | | |
+| RAM |When looking at RAM, your primary focus should be on Capacity, Speed, Latency, Generation, and Form Facto |When looking at RAM, your primary focus should be on Capacity, Speed, Latency, Generation, and Form Facto |
 | Storage | | |
 | Motherboard | | |
 | Power Supply | | |
